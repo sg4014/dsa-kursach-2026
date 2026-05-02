@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.git
+.gitignore
+.vs/
+.vscode/
+.idea/
+.DS_Store
+README.md
+DSA_kursach.slnx
